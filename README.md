@@ -54,3 +54,6 @@ QGroundControl is *open-source*, meaning you have the power to shape it! Whether
 ---
 
 With QGroundControl, you're in full command of your UAV, ready to take your missions to the next level.
+
+
+Hello, There this is a test message!
